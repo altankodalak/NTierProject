@@ -1,0 +1,14 @@
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\bin\Debug\Project.MAP.dll.config
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\bin\Debug\Project.MAP.dll
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\bin\Debug\Project.MAP.pdb
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\bin\Debug\EntityFramework.dll
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\bin\Debug\Project.ENTITIES.dll
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\bin\Debug\Project.ENTITIES.pdb
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\bin\Debug\EntityFramework.xml
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\obj\Debug\Project.MAP.csproj.AssemblyReference.cache
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\obj\Debug\Project.MAP.csproj.CoreCompileInputs.cache
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\obj\Debug\Project.MAP.csproj.CopyComplete
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\obj\Debug\Project.MAP.dll
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.MAP\obj\Debug\Project.MAP.pdb

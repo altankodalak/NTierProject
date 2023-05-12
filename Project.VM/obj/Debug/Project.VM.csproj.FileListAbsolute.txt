@@ -1,0 +1,6 @@
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.VM\bin\Debug\Project.VM.dll
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.VM\bin\Debug\Project.VM.pdb
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.VM\obj\Debug\Project.VM.csproj.AssemblyReference.cache
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.VM\obj\Debug\Project.VM.csproj.CoreCompileInputs.cache
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.VM\obj\Debug\Project.VM.dll
+C:\Users\anıl\Desktop\NTierProject3164-master\Project.VM\obj\Debug\Project.VM.pdb
